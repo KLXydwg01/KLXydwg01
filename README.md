@@ -1,16 +1,41 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="zh-CN">
 
-<!--
-**CY0oungHui/CY0oungHui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+  <meta charset="UTF-8">
+</head>
 
-Here are some ideas to get you started:
+<body>
+  <div class="section">
+    <h1>👋 Hello! I'm CY0ung_Hui</h1>
+    <p>VisualTechStudio创始人</p>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div class="section">
+    <h2>🛠️ 技术栈</h2>
+    <ul>
+      <li>前端：JavaScript、HTML5/CSS3</li>
+      <li>后端：Java、C++、Python</li>
+      <li>数据库：MySQL</li>
+      <li>其他：Git、Docker</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🌟 开源项目</h2>
+    <ul>
+      <li>
+        <a href="https://github.com/NTCloud/DownLoad">下载站</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>📫 联系我</h2>
+    <p>欢迎交流合作：
+      577515309@qq.com
+    </p>
+  </div>
+</body>
+
+</html>
