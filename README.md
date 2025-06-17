@@ -14,7 +14,7 @@
   <div class="section">
     <h2>🛠️ 技术栈</h2>
     <ul>
-      <li>☺️ Android开发：掌握Magisk模块开发及Android系统知识</li>
+      <li>🥳 Android开发：掌握Magisk模块开发及Android系统知识</li>
       <li>😬 前端开发：正在学习HTML/CSS/JavaScript，目前能开发较为简单的网页(Ai助我😡）</del></li>
       <li>😰 桌面应用开发：此方面0基础的初学者，正在学习基于WPF的Windows .NET应用开发</li>
     </ul>
