@@ -5,18 +5,16 @@
   <meta charset="UTF-8">
   <style>
     .typewriter {
-      overflow: hidden; /* 隐藏超出部分 */
-      white-space: nowrap; /* 防止文字换行 */
-      border-right: 3px solid; /* 光标效果 */
-      width: 0; /* 初始宽度为0 */
+      overflow: hidden; 
+      white-space: nowrap; 
+      border-right: 3px solid; 
+      width: 0; 
       animation: typing 4s steps(30, end), blink-caret 1s step-end infinite;
     }
-    /* 打字动画 */
     @keyframes typing {
       from { width: 0 }
       to { width: 100% }
     }
-    /* 光标闪烁动画 */
     @keyframes blink-caret {
       from, to { border-color: transparent }
       50% { border-color: currentColor }
