@@ -62,12 +62,17 @@
   </div>
 
   <div class="section">
-    <h2>📫 联系我</h2>
+    <h2>👥 加入我们</h2>
     <ul>
-      <li>官方讨论QQ群：1027686267</li>
-      <li>邮箱:KL_Xydwg01@outlook.com</li>
+      <li>创始人QQ:577515309</li>
     </ul>
   </div>
+
+ <div class="section">
+    <h2>🛠️ 技术栈</h2>
+    <ul>
+      <li>爱好：打Go、刷抖音、睡觉</li>
+  
 </body>
 
 </html>
