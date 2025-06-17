@@ -7,17 +7,15 @@
 
 <body>
   <div class="section">
-    <h1>👋 Hello! I'm CY0ung_Hui</h1>
-    <p>VisualTechStudio创始人</p>
+    <h1>👋 Hello! I'm KL_Xydwg01</h1>
+    <p>VisualTechStudio核心成员</p>
   </div>
 
   <div class="section">
     <h2>🛠️ 技术栈</h2>
     <ul>
-      <li>前端：JavaScript、HTML5/CSS3</li>
-      <li>后端：Java、C++、Python</li>
-      <li>数据库：MySQL</li>
-      <li>其他：道馆</li>
+      <li>爱好：打Go刷抖音睡觉</li>
+      <li>专业：道馆</li>
     </ul>
   </div>
 
@@ -33,7 +31,7 @@
   <div class="section">
     <h2>📫 联系我</h2>
     <p>欢迎交流合作：
-      577515309@qq.com
+      KL_Xydwg01@outlook.com
     </p>
   </div>
 </body>
