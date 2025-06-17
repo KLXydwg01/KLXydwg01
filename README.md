@@ -34,6 +34,15 @@
     </ul>
   </div>
 
+   <div class="section">
+    <h2>🔞 前往团队其他人的Github主页</h2>
+    <ul>
+      <li>
+        <a href="https://github.com/CY0ungHui">CY0ung_Hui</a>
+      </li>
+    </ul>
+  </div>
+
   <div class="section">
     <h2>📫 联系我</h2>
     <p>欢迎交流合作：
