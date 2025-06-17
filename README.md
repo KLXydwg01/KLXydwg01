@@ -12,6 +12,15 @@
   </div>
 
    <div class="section">
+    <h2>🔞 前往团队其他人的Github主页</h2>
+    <ul>
+      <li>
+        <a href="https://github.com/CY0ungHui">CY0ung_Hui</a>
+      </li>
+    </ul>
+  </div>
+
+   <div class="section">
     <h2>🌏 康康网站</h2>
     <ul>
       <li>
@@ -49,15 +58,6 @@
       <li>
         <a href="https://114514.cn">V-WinTools</a>
      </li>
-    </ul>
-  </div>
-
-   <div class="section">
-    <h2>🔞 前往团队其他人的Github主页</h2>
-    <ul>
-      <li>
-        <a href="https://github.com/CY0ungHui">CY0ung_Hui</a>
-      </li>
     </ul>
   </div>
 
