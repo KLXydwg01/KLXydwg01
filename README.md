@@ -11,15 +11,6 @@
     <p>VisualTechStudio核心成员</p>
   </div>
 
-   <div class="section">
-    <h2>🔞 前往VisualTechStudio其他成员的Github主页</h2>
-    <ul>
-      <li>
-        <a href="https://github.com/CY0ungHui">CY0ung_Hui</a>
-      </li>
-    </ul>
-  </div>
-
   <div class="section">
     <h2>🛠️ 技术栈</h2>
     <ul>
@@ -60,6 +51,16 @@
      </li>
     </ul>
   </div>
+
+   <div class="section">
+    <h2>🔞 前往VisualTechStudio其他成员的Github主页</h2>
+    <ul>
+      <li>
+        <a href="https://github.com/CY0ungHui">CY0ung_Hui</a>
+      </li>
+    </ul>
+  </div>
+
 
   <div class="section">
     <h2>👥 加入我们</h2>
