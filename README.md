@@ -17,7 +17,7 @@
       <li>前端：JavaScript、HTML5/CSS3</li>
       <li>后端：Java、C++、Python</li>
       <li>数据库：MySQL</li>
-      <li>其他：Git、Docker</li>
+      <li>其他：道馆</li>
     </ul>
   </div>
 
@@ -25,7 +25,7 @@
     <h2>🌟 开源项目</h2>
     <ul>
       <li>
-        <a href="https://github.com/NTCloud/DownLoad">下载站</a>
+        <a href="https://github.com/KLXydwg01/Clean-AndroidRootDevices-Environment-s-Module">神秘模块</a>
       </li>
     </ul>
   </div>
