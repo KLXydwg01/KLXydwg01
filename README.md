@@ -14,11 +14,9 @@
   <div class="section">
     <h2>🛠️ 技术栈</h2>
     <ul>
-      <li>爱好：打Go、刷抖音、睡觉</li>
-      <li>专业：<del>🦌卢迪克🦌</del></li>
-      <li>喜欢的明星：⚡️艾卢迪克⚡️</li>
-      <li>座右铭：🤓我三岁开始喝酒，五岁灌趴下两个比我大六岁的男生🤓......</li>
-      <li>喜欢的音乐：🎵那一天的犹豫🎵犹豫起来🎵那一天的寂寞🎵寂寞起来🎵</li>
+      <li>Android开发：掌握Magisk模块开发及Android系统知识</li>
+      <li>前端开发：正在学习 HTML/CSS/JavaScript目前能开发较为简单的网页</del></li>
+      <li>桌面应用开发：此方面的初学者，正在学习基于WPF的Windows .NET应用开发</li>
     </ul>
   </div>
 
