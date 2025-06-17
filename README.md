@@ -8,20 +8,20 @@
 <body>
   <div class="section">
     <h1>👋 Hello! I'm KL_Xydwg01</h1>
-    <p>2024年加入VisualTechStudio，目前是团队的核心成员</p >
+    <p>2024年加入VisualTechStudio，目前是团队的核心成员🤗</p >
   </div>
 
   <div class="section">
     <h2>🛠️ 技术栈</h2>
     <ul>
-      <li>Android开发：掌握Magisk模块开发及Android系统知识</li>
-      <li>前端开发：正在学习HTML/CSS/JavaScript，目前能开发较为简单的网页(Ai助我😡）</del></li>
-      <li>桌面应用开发：此方面0基础的初学者，正在学习基于WPF的Windows .NET应用开发</li>
+      <li>☺️Android开发：掌握Magisk模块开发及Android系统知识</li>
+      <li>😬前端开发：正在学习HTML/CSS/JavaScript，目前能开发较为简单的网页(Ai助我😡）</del></li>
+      <li>😰桌面应用开发：此方面0基础的初学者，正在学习基于WPF的Windows .NET应用开发</li>
     </ul>
   </div>
 
    <div class="section">
-    <h2>🌏 康康网站 (嗯…无法访问此页面,似乎 vtstudio.space 关闭了连接)</h2>
+    <h2>🌏 康康网站 (嗯…无法访问此页面,似乎 vtstudio.space 关闭了连接🤡)</h2>
     <ul>
       <li>
         <a href=" ">VisualTechStudio 网站 </a >
