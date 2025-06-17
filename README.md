@@ -23,7 +23,7 @@
   </div>
 
    <div class="section">
-    <h2>🌏 康康网站 (嗯…无法访问此页面似乎 vtstudio.space 关闭了连接)。</h2>
+    <h2>🌏 康康网站 (嗯…无法访问此页面,似乎 vtstudio.space 关闭了连接)</h2>
     <ul>
       <li>
         <a href="https://VTStudio.space">VisualTechStudio 网站 </a>
@@ -44,7 +44,7 @@
     <h2>🌟 开源项目</h2>
     <ul>
       <li>
-        <a href="https://github.com/KLXydwg01/Clean-AndroidRootDevices-Environment-s-Module">神秘模块</a>
+        <a href="https://github.com/KLXydwg01/Clean-AndroidRootDevices-Environment-s-Module">Clean Android Root Devices Environment's Module-为你已Root的设备恢复干净的环境！</a>
       </li>
       <li>
         <a href="https://114514.cn">V-WinTools</a>
