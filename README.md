@@ -62,6 +62,12 @@
     </ul>
   </div>
 
+  <div class="section">
+    <h2>💬 与我们讨论</h2>
+    <ul>
+      <li>QQ群聊:1027686267</li>
+    </ul>
+  </div>
 
   <div class="section">
     <h2>👥 加入我们</h2>
