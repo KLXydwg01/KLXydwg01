@@ -8,7 +8,7 @@
 <body>
   <div class="section">
     <h1>👋 Hello! I'm KL_Xydwg01</h1>
-    <p>VisualTechStudio核心成员</p >
+    <p>2024年加入VisualTechStudio，目前是VisualTechStudio核心成员</p >
   </div>
 
   <div class="section">
