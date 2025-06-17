@@ -15,13 +15,16 @@
     <h2>🌏 康康网站</h2>
     <ul>
       <li>
-        <a href="https://VTStudio.space">VisualTechStudio网站 </a>
+        <a href="https://VTStudio.space">VisualTechStudio 网站 </a>
       </li>
       <li>
         <a href="https://home.VTStudio.space">VisualTechStudio Blog </a>
       </li>
       <li>
-        <a href="https://cloud.VTStudio.space">VisualTechStudio仓库 </a>
+        <a href="https://cloud.VTStudio.space">VisualTechStudio 仓库 </a>
+      </li>
+       <li>
+        <a href="https://status.VTStudio.space">VisualTechStudio 网站状态 </a>
       </li>
     </ul>
   </div>
