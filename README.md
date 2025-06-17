@@ -63,10 +63,10 @@
 
   <div class="section">
     <h2>📫 联系我</h2>
-    <p>欢迎交流合作：
-      KL_Xydwg01@outlook.com
-      1027686267
-    </p>
+    <ul>
+      <li>官方讨论QQ群：1027686267</li>
+      <li>邮箱:KL_Xydwg01@outlook.com</li>
+    </ul>
   </div>
 </body>
 
