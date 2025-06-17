@@ -12,13 +12,16 @@
   </div>
 
    <div class="section">
-    <h2>🌏 康康VisualTechStudio</h2>
+    <h2>🌏 康康网站</h2>
     <ul>
       <li>
-        <a href="https://VTStudio.space">VisualTechStudio官方网站 </a>
+        <a href="https://VTStudio.space">VisualTechStudio网站 </a>
       </li>
       <li>
-        <a href="https://cloud.VTStudio.space">VisualTechStudio官方仓库 </a>
+        <a href="https://home.VTStudio.space">VisualTechStudio Blog </a>
+      </li>
+      <li>
+        <a href="https://cloud.VTStudio.space">VisualTechStudio仓库 </a>
       </li>
     </ul>
   </div>
