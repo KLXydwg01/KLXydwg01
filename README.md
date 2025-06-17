@@ -10,7 +10,6 @@
   <h1>👋 Hello! I'm KL_Xydwg01</h1>
   <p>2024年加入VisualTechStudio，目前是团队的核心成员🤗</p>
   <pre><code>
-    // 模拟的代码框
     console.log("Hello World");
   </code></pre>
 </div>
