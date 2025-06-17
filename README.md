@@ -12,7 +12,7 @@
   </div>
 
    <div class="section">
-    <h2>🔞 前往团队其他人的Github主页</h2>
+    <h2>🔞 前往VisualTechStudio其他成员的Github主页</h2>
     <ul>
       <li>
         <a href="https://github.com/CY0ungHui">CY0ung_Hui</a>
