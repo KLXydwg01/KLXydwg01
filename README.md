@@ -69,10 +69,10 @@
   </div>
 
  <div class="section">
-    <h2>🛠️ 技术栈</h2>
+    <h2>📮 联系我</h2>
     <ul>
-      <li>爱好：打Go、刷抖音、睡觉</li>
-  
+      <li>邮箱:KL_Xydwg01@outlook.com</li>
+   </ul>
 </body>
 
 </html>
