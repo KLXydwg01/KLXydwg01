@@ -23,7 +23,7 @@
   </div>
 
    <div class="section">
-    <h2>🌏 康康网站</h2>
+    <h2>🌏 康康网站 (嗯…无法访问此页面似乎 vtstudio.space 关闭了连接)。</h2>
     <ul>
       <li>
         <a href="https://VTStudio.space">VisualTechStudio 网站 </a>
